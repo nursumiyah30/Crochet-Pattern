@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "projects": [
+    {
+      "id": "whale",
+      "name": "Mini Whale",
+      "part": "body",
+      "parts": [
+        {
+          "id": "body",
+          "name": "Body",
+          "emoji": "🐳",
+          "rounds": [
+            "6sc in MR [6]",
+            "6inc [12]",
+            "(sc, inc) ×6 [18]",
+            "(2sc, inc) ×6 [24]",
+            "(3sc, inc) ×6 [30]",
+            "30sc [30]"
+          ]
+        },
+        {
+          "id": "belly",
+          "name": "Belly",
+          "emoji": "🤍",
+          "rounds": [
+            "6sc in MR [6]",
+            "6inc [12]"
+          ]
+        },
+        {
+          "id": "fins",
+          "name": "Fins",
+          "emoji": "🐳",
+          "rounds": [
+            "4sc in MR [4]",
+            "4inc [8]"
+          ]
+        },
+        {
+          "id": "tail",
+          "name": "Tail",
+          "emoji": "🐳",
+          "rounds": [
+            "4sc in MR [4]",
+            "4inc [8]",
+            "8sc [8]"
+          ]
+        }
+      ],
+      "progress": {
+        "body": 0,
+        "belly": 0,
+        "fins": 0,
+        "tail": 0
+      }
+    }
+  ]
+}
