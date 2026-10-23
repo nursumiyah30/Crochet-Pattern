@@ -1,0 +1,397 @@
+{
+  "version": 3,
+  "projects": [
+    {
+      "id": "whale",
+      "name": "Mini Whale",
+      "part": "body",
+      "parts": [
+        {
+          "id": "body",
+          "name": "Body",
+          "rounds": [
+            "start with main colour",
+            "MR, 6sc [6]",
+            "6inc [12]",
+            "sc, inc [18]",
+            "2sc, inc [24]",
+            "24sc",
+            "24sc",
+            "24sc"
+          ],
+          "emoji": "🧶"
+        },
+        {
+          "id": "belly",
+          "name": "Tail and Fin",
+          "rounds": [
+            "continue with previous round",
+            "ch4, sc in 2nd ch, sc, ch3, sc in 2nd ch, sc, sc into remaining ch of foundation ch4",
+            "6sc",
+            "ch3, sc in 2nd ch, sc",
+            "12sc",
+            "ch3, sc in 2nd ch, sc",
+            "6sc",
+            "change to white on the last stitch"
+          ],
+          "emoji": "🧶"
+        },
+        {
+          "id": "fins",
+          "name": "Belly",
+          "rounds": [
+            "start with white yarn",
+            "24sc, skip fins [24]",
+            "insert 4mm safety eyes",
+            "1 round above the fins",
+            "2 stitches apart from the fins, one on each side",
+            "2sc, dec [18]",
+            "sc, dec [12]",
+            "stuff firmly",
+            "6dec [6]",
+            "fasten off and close through the front loops"
+          ],
+          "emoji": "🧶"
+        },
+        {
+          "id": "tail",
+          "name": "Blush",
+          "rounds": [
+            "using pink yarn",
+            "embroider 2 small lines over 1 stitch directly above each fin"
+          ],
+          "emoji": "🌸"
+        }
+      ],
+      "progress": {},
+      "reference": "https://youtu.be/MxI0in-aK0M?si=_lrR2WD2uTV2oRB-",
+      "image": "/mini-whale.png"
+    },
+    {
+      "id": "4abad6t4",
+      "name": "Pouch Bag",
+      "reference": "https://youtu.be/zQsKbszaR6A?si=Tj8TZCWAlhzPd4mm",
+      "image": "pouch-bag.png",
+      "part": "z377z65c",
+      "parts": [
+        {
+          "id": "starter",
+          "name": "Body Bag",
+          "rounds": [
+            "R1 starts in 3rd ch from hook. work along both sides of foundation chain",
+            "foundation: ch21",
+            "18dc, 3dc in last ch, 17dc, 2dc in last ch, slst [40]",
+            "ch2, 40dc, slst [40]",
+            "ch2, 40dc, slst [40]",
+            "ch2, 40dc, slst [40]",
+            "ch2, 40dc, slst [40]",
+            "ch2, 40dc, slst [40]",
+            "ch2, 40dc, slst [40]",
+            "ch2, 40dc, slst [40]",
+            "ch2, 40dc, slst [40]",
+            "ch2, 40dc, slst [40]",
+            "add more rounds for extra height",
+            "ch1, cut yarn and fasten off"
+          ],
+          "emoji": "👜"
+        },
+        {
+          "id": "31fn4wfs",
+          "name": "Drawstring",
+          "emoji": "🧵",
+          "rounds": [
+            "make 2",
+            "ch70",
+            "cut yarn and fasten off"
+          ]
+        },
+        {
+          "id": "z377z65c",
+          "name": "Flower",
+          "emoji": "🌸",
+          "rounds": [
+            "make 4",
+            "MR 5sc, slst [5]",
+            "change to white yarn on 5th sc of R1",
+            "(ch2, 3dc in same st, ch2, slst in next st) ×5 [5 petals]",
+            "ch1, cut yarn and fasten off"
+          ]
+        },
+        {
+          "id": "7axj9fqn",
+          "name": "Assembly",
+          "emoji": "🪡",
+          "rounds": [
+            "weave first drawstring through R9",
+            "weave second drawstring through R9 from opposite side",
+            "knot both ends of each drawstring together",
+            "glue 2 flowers back-to-back over each knot"
+          ]
+        }
+      ],
+      "progress": {}
+    },
+    {
+      "id": "uck76483",
+      "name": "Spiderman Mushroom",
+      "reference": "https://youtu.be/wV7DnUAPjzE?si=fMJ4LksE19mbyyLv",
+      "image": "spider-mushroom.png",
+      "part": "starter",
+      "parts": [
+        {
+          "id": "starter",
+          "name": "Head",
+          "rounds": [
+            "start with red yarn",
+            "MR, 6sc [6]",
+            "6inc [12]",
+            "sc, inc [18]",
+            "sc, inc, sc [24]",
+            "24sc",
+            "24sc",
+            "FLO, 3sc, inc [30]",
+            "change to blue yarn",
+            "2sc, inc, 2sc [36]",
+            "fasten off",
+            "start with white yarn",
+            "24sc in BLO",
+            "24sc",
+            "24sc",
+            "bo: 4 unfinished dc in the same stitch, leaving 5 loops on the hook, yarn over and pull through all loops",
+            "7sc, bo, 8sc, bo, 7sc [24]",
+            "24sc",
+            "24sc",
+            "insert 6mm safety eyes between R11-R12, 4 stitches apart",
+            "9sc, bo, 5sc, bo, 8sc [24]",
+            "12dec [12]",
+            "stuff firmly",
+            "6dec [6]",
+            "fasten off and close",
+            "add blush"
+          ],
+          "emoji": "🍄"
+        },
+        {
+          "id": "01gq8vh6",
+          "name": "Thorn",
+          "emoji": "🪡",
+          "rounds": [
+            "using the red and blue yarn tails together",
+            "ch6",
+            "fasten off",
+            "(refer to the video for placement.)"
+          ]
+        },
+        {
+          "id": "g2dz0jev",
+          "name": "Assembly",
+          "emoji": "🧵",
+          "rounds": [
+            "6mm safety eyes antara R11-R12, 4 stitches apart"
+          ]
+        }
+      ],
+      "progress": {}
+    },
+    {
+      "id": "za4u4t5q",
+      "name": "Cat with Hat",
+      "reference": "",
+      "image": "cat-with-hat.png",
+      "part": "3wshwfsi",
+      "parts": [
+        {
+          "id": "starter",
+          "name": "Head",
+          "rounds": [
+            "MR 6sc [6]",
+            "6inc [12]",
+            "sc, inc [18]",
+            "2sc, inc [24]",
+            "3sc, inc [30]",
+            "30sc [30]",
+            "30sc [30]",
+            "30sc [30]",
+            "30sc [30]",
+            "28sc, dec [29]",
+            "10dec, 9sc [19]"
+          ],
+          "emoji": "🐱"
+        },
+        {
+          "id": "oshxd5zl",
+          "name": "Body",
+          "emoji": "🧶",
+          "rounds": [
+            "MR 6sc [6]",
+            "6inc [12]",
+            "sc, inc [18]",
+            "2sc, inc [24]",
+            "6sc, bo, 3sc, bo, 2sc, bo, 3sc, bo, 6sc [24]",
+            "24sc [24]",
+            "sc, dec, 18sc, dec, sc [22]",
+            "22sc [22]",
+            "4sc, dec, 4sc, dec, 4sc, dec, 4sc [19]",
+            "cut yarn"
+          ]
+        },
+        {
+          "id": "mesa2wp3",
+          "name": "Tail",
+          "emoji": "🪡",
+          "rounds": [
+            "MR 6sc [6]",
+            "6sc [6]",
+            "6sc [6]",
+            "2sc, dec, 2sc [5]"
+          ]
+        },
+        {
+          "id": "sqmv8ckw",
+          "name": "Ear",
+          "emoji": "🍀",
+          "rounds": [
+            "make 2",
+            "MR 4sc [4]",
+            "4inc [8]"
+          ]
+        },
+        {
+          "id": "ahesurhd",
+          "name": "Scarf",
+          "emoji": "🧣",
+          "rounds": [
+            "ch41",
+            "40sc [40]"
+          ]
+        },
+        {
+          "id": "3wshwfsi",
+          "name": "Assembly",
+          "emoji": "🫧",
+          "rounds": [
+            "stuff the head and body",
+            "sew head to body, matching the 19 stitches",
+            "sew ears onto head, approximately 3 stitches apart",
+            "sew tail onto back of body",
+            "embroider eyes between R7–R8, 5 stitches apart",
+            "add 2 whiskers on each side",
+            "wrap scarf around neck"
+          ]
+        }
+      ],
+      "progress": {}
+    },
+    {
+      "id": "ue5hmyr1",
+      "name": "Dinasour",
+      "reference": "https://youtu.be/gs5b8TjxKNU?si=YIqJ9CZ6eNlEERfQ",
+      "image": "dinosour.png",
+      "part": "starter",
+      "parts": [
+        {
+          "id": "starter",
+          "name": "Body",
+          "rounds": [
+            "MR, 8sc [8]",
+            "8inc [16]",
+            "sc, inc [24]",
+            "2sc, inc [32]",
+            "7sc, bo, 7sc, bo, 7sc, bo, 7sc, bo [32]",
+            "32sc [32]",
+            "32sc [32]",
+            "32sc [32]",
+            "32sc [32]",
+            "7sc, 6dec, 13sc [26]",
+            "4sc, 6dec, 10sc [20]",
+            "2sc, 6dec, 6sc [14]",
+            "stuff the body",
+            "2sc, 2dec, 8sc [12]",
+            "12sc [12]",
+            "12sc [12]",
+            "12sc [12]",
+            "10sc, 2inc [14]",
+            "2inc, 10sc, 2inc [18]",
+            "2inc, 16sc [20]",
+            "20sc [20]",
+            "20sc [20]",
+            "3sc, dec [16]",
+            "insert safety eyes",
+            "8dec [8]",
+            "fasten off and close through the front loops"
+          ],
+          "emoji": "🧶"
+        }
+      ],
+      "progress": {}
+    },
+    {
+      "id": "evasv2ws",
+      "name": "Baby Chicks",
+      "reference": "https://youtu.be/v4ywy29gl64?si=a0ruYs0yEt3C4N93",
+      "image": "baby-chicks.png",
+      "part": "starter",
+      "parts": [
+        {
+          "id": "starter",
+          "name": "Body",
+          "rounds": [
+            "start with yellow yarn",
+            "MR, 6sc [6]\u000bq",
+            "6inc [12]",
+            "sc, inc [18]",
+            "2sc, inc [24]",
+            "sc [24]",
+            "sc [24]",
+            "sc [24]",
+            "sc [24]",
+            "sc [24]",
+            "sc, dec [16]",
+            "stuffing",
+            "8dec",
+            "ch1, leave long tail and close hole"
+          ],
+          "emoji": "🧶"
+        },
+        {
+          "id": "0wmotol6",
+          "name": "Face Details",
+          "emoji": "🐣",
+          "rounds": [
+            "safety eyes - between R6 and R7\u000bsew eye using white yarn (optional)",
+            "sew beak using orange yarn between eyes",
+            "add blush at the cheeks"
+          ]
+        },
+        {
+          "id": "m1hgh9wr",
+          "name": "Hat",
+          "emoji": "🎩",
+          "rounds": [
+            "MR, 6sc [6]",
+            "6inc [12]",
+            "sc, inc [18]",
+            "2sc, inc [24]",
+            "3sc, inc [30]",
+            "30sc",
+            "30sc",
+            "30sc",
+            "sc, dec",
+            "slst to the next st, ch1, cut yarn, weave end"
+          ]
+        },
+        {
+          "id": "85wxrfdd",
+          "name": "Frog Ear",
+          "emoji": "🐸",
+          "rounds": [
+            "start with same colour yarn as previous round",
+            "MR, 5sc [5]",
+            "pull, close and leave long tail"
+          ]
+        }
+      ],
+      "progress": {}
+    }
+  ]
+}
